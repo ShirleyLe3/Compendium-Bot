@@ -26,7 +26,7 @@ Discord Bot with multifunctional abilities such as moderation, basic utility, an
   </a>
   <!-- Github -->
   <a href="https://github.com/enterprise">
-    <img src="https://img.shields.io/npm/dt/choo.svg?style=flat-square"
+    <img src="..."
       alt="Github" />
   </a>
   <!-- Visual Basics -->
