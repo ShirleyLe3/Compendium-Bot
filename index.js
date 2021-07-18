@@ -107,5 +107,3 @@ bot.on("message", message=> {
                 
     }
 })
-
-bot.login("ODU3OTE0MTU4Mzk3MjU5Nzc3.YNWg0g.BmdiwXHst4s99JP-yS-oHRGGEmA")
